@@ -63,10 +63,6 @@
             priority = 70;
           }
           {
-            name = "codeium";
-            priority = 60;
-          }
-          {
             name = "buffer";
             priority = 50;
             # Words from other open buffers can also be suggested.
@@ -79,14 +75,6 @@
           }
           {
             name = "git";
-            priority = 20;
-          }
-          {
-            name = "npm";
-            priority = 20;
-          }
-          {
-            name = "zsh";
             priority = 20;
           }
           {

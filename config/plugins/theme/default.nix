@@ -4,11 +4,11 @@
       enable = true;
       settings = {
         background = {
-          light = "macchiato";
+          light = "mocha";
           dark = "mocha";
         };
-        flavour = "macchiato"; # “latte”, “mocha”, “frappe”, “macchiato”, “auto”
-        transparent_background = true;
+        flavour = "mocha"; # “latte”, “mocha”, “frappe”, “macchiato”, “auto”
+        transparent_background = false;
         integrations = {
           cmp = true;
           flash = true;
