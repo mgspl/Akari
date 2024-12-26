@@ -1,8 +1,8 @@
 {
   plugins = {
-    copilot-chat.enable = true;
+    copilot-chat.enable = false;
     copilot-lua = {
-      enable = true;
+      enable = false;
       suggestion = {
         enabled = false;
         autoTrigger = true;
