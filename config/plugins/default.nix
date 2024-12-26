@@ -1,6 +1,6 @@
 {
   imports = [
-    ./ai/codeium.nix
+    # ./ai/codeium.nix
 
     # ./completion/blink.nix
     ./completion/cmp.nix
@@ -26,16 +26,16 @@
     ./lsp/trouble.nix
 
     ./lang/cpp.nix
-    ./lang/css.nix
-    ./lang/docker.nix
-    ./lang/html.nix
+    # ./lang/css.nix
+    # ./lang/docker.nix
+    # ./lang/html.nix
     ./lang/json.nix
     ./lang/lua.nix
     ./lang/markdown.nix
     ./lang/nix.nix
     ./lang/python.nix
     ./lang/shell.nix
-    ./lang/typescript.nix
+    # ./lang/typescript.nix
     ./lang/yaml.nix
 
     ./treesitter/treesitter.nix
