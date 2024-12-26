@@ -21,7 +21,7 @@
 
       # Enable relative line numbers
       number = true;
-      relativenumber = true;
+      relativenumber = false;
 
       # Tab spacing 2 spaces
       tabstop = 2;
@@ -97,7 +97,7 @@
         g.neovide_transparency = 0.8
 
         -- Neovide Fonts
-        o.guifont = "MonoLisa Trial:Medium:h15"
+        o.guifont = "UbuntuMono Nerd Font:Medium:h15"
         -- o.guifont = "CommitMono:Medium:h15"
         -- o.guifont = "JetBrainsMono Nerd Font:h14:Medium:i"
         -- o.guifont = "FiraMono Nerd Font:Medium:h14"
